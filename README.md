@@ -1,3 +1,3 @@
 # Weatherman.
-error in code line 30
+error in code line 29
 IndexError: list index out of range
